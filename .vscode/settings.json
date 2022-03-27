@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lib_debug.h": "c",
+        "lib_cli.h": "c"
+    }
+}
